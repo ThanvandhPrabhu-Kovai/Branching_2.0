@@ -1,0 +1,7 @@
+D:\Projects\Visual Studio 2019\Branching-2\Branching-2\bin\Debug\Branching-2.exe.config
+D:\Projects\Visual Studio 2019\Branching-2\Branching-2\bin\Debug\Branching-2.exe
+D:\Projects\Visual Studio 2019\Branching-2\Branching-2\bin\Debug\Branching-2.pdb
+D:\Projects\Visual Studio 2019\Branching-2\Branching-2\obj\Debug\Branching-2.csprojAssemblyReference.cache
+D:\Projects\Visual Studio 2019\Branching-2\Branching-2\obj\Debug\Branching-2.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio 2019\Branching-2\Branching-2\obj\Debug\Branching-2.exe
+D:\Projects\Visual Studio 2019\Branching-2\Branching-2\obj\Debug\Branching-2.pdb
